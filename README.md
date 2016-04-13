@@ -1,6 +1,8 @@
 # "Ostrovsky A"s Source Code - Skillz 2016
 In this repository you will find the source code, as it was at the beginning of the final's day, used by the group "Ostrovsky A" in the "Skillz 2016" competition.
 
+Note: We nicknamed ourself "PoodleChanBD", so you might see some references to this name throughout the code.
+
 ## General Structure
 ### Wrapping
 We completely wrapped the objects given to us by the game's API with our own objects, which were updated automatically every turn. The wrapping allowed us to save the objects in other classes without the worry of updating them, and made it easier for us the add custom attributes and methods to them (for example, we calculated each turn which pirate carries which treasure, which is something that is not available through the normal API). We were worried about the wrapping before the finals, because we knew that we needed to add support for the new feature in our API, which takes time. As a result, we added instructions on the addition and changing needed for general objects that could be added, and added "hack ins" to retrieve the original objects from ours.
