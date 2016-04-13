@@ -66,5 +66,5 @@ This directory contains the "States" of the bot: a State is an object which is r
 ### Utilities
 This directory contains some generic utilities classes and methods, which are being used throughout the project.
 
-## And always remember...
+## And always remember... :)
 <img src="https://www.ezphotoshare.com/images/2016/03/31/7zdcb.gif" width="300" />
