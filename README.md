@@ -1,7 +1,7 @@
 # "Ostrovsky A"s Source Code - Skillz 2016
 In this repository you will find the source code, as it was at the beginning of the final's day, used by the group "Ostrovsky A" in the "Skillz 2016" competition.
 
-Note: We nicknamed ourself "PoodleChanBD", so you might see some references to this name throughout the code.
+Note: We nicknamed ourselves "PoodleChanBD", so you might see some references to this name throughout the code.
 
 ## General Structure
 ### Wrapping
